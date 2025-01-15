@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=edbc1a&center=true&vCenter=true&width=435&lines=Hello..; ..+I'am Fauzi Ferdiansyah;" alt="Typing SVG"/></h1>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=500&color=FFDA02&background=FFCBCB00&center=true&vCenter=true&width=448&lines=Hello+..;I'm+Fauzi+Ferdiansyah" alt="Typing SVG" /></a>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
 
-  <img src=" https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js">
