@@ -6,14 +6,13 @@
 <div align="center">
     <div align="center">
   <h2>🚀 About Me</h2>
-  <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
   <p>I'm Fauzi Ferdiansyah, a passionate programmer with a focus on crafting exceptional digital experiences. I thrive in the world of frontend development, where I leverage the power of React to build beautiful, interactive, and user-friendly interfaces. My expertise extends to Android development, where I utilize Kotlin to create high-performing and engaging mobile applications. I'm driven by a constant desire to learn and evolve, always seeking new challenges and opportunities to expand my skillset.</p> 
 </div>
 </div>
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<p> To connect with me, you can find my professional profile and contact details on LinkedIn, Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/zane-pearton">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
