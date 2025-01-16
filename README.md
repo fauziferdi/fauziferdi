@@ -63,7 +63,7 @@
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauziferdi&theme=github_dark" alt="Fauzi's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=fauziferdi&theme=merko" alt="Zane's Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=fauziferdi&theme=merko" alt="Fauzi's Contribution Streak"/></td>
     </tr>
  </table>
 
