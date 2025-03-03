@@ -26,7 +26,6 @@
 <img src="https://komarev.com/ghpvc/?username=fauziferdi&style=for-the-badge" alt="Profile views" />
 </div>
 
-
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 <div align="center">
@@ -50,10 +49,6 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="REDUX"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="ReactRouter"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL"/>
-  
-
-  
-
 </div>
 
 
@@ -70,9 +65,16 @@
  <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fauziferdi&theme=github_dark" alt="Fauzi's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fauziferdi&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauziferdi&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fauziferdi&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fauziferdi&theme=github_dark&utcOffset=10" alt="Fauzi's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauziferdi&theme=github_dark" alt="Fauzi's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fauziferdi&theme=github_dark" alt="Fauzi's GitHub Stats"/></td>
     </tr>
  </table>
+ 
+ <table align="center" width="100%" height="100%">
+    <tr>
+       <td><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fauziferdi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></td>
+       <td><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fauziferdi&layout=compact&theme=dark"/></td>
+    </tr>
+</table>
 </div>
