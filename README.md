@@ -5,7 +5,7 @@
 
 <div align="center">
     <div align="center">
-  <h2>🚀 About Me 🚀</h2>
+  <h2>🚀 About Me</h2>
   <p>I'm Fauzi Ferdiansyah, a passionate programmer with a focus on crafting exceptional digital experiences. I thrive in the world of frontend development, where I leverage the power of React to build beautiful, interactive, and user-friendly interfaces. My expertise extends to Android development, where I utilize Kotlin to create high-performing and engaging mobile applications. I'm driven by a constant desire to learn and evolve, always seeking new challenges and opportunities to expand my skillset.</p> 
 </div>
 </div>
